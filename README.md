@@ -9,7 +9,8 @@ Non-invasive IoT-based system for real-time monitoring of glucose, uric acid, an
 
 > **Non-invasive health monitoring system for real-time tracking of Glucose, Uric Acid, and Cholesterol levels using IoT technology**
 
-![System Overview](docs/images/system-overview.jpg)
+![System Overview](https://github.com/user-attachments/assets/6610e1dd-5e8f-43ee-82cb-26f33c424298)
+
 *GLURAKOL monitoring system with ESP8266 and sensor integration*
 
 ---
@@ -111,27 +112,7 @@ Non-invasive IoT-based system for real-time monitoring of glucose, uric acid, an
 
 ---
 
-## 🛠️ Hardware Components
 
-| No | Component | Quantity | Unit Price (Rp) | Total (Rp) | Description |
-|----|-----------|----------|-----------------|------------|-------------|
-| 1 | ESP8266 WiFi Module | 1 | 71,000 | 71,000 | Main microcontroller |
-| 2 | LCD 1602 I2C Blue Backlight | 1 | 26,900 | 26,900 | Display module |
-| 3 | PCB Dot Matrix Single Layer | 2 | 11,900 | 23,800 | Circuit board |
-| 4 | Tinned Copper Cable (White) | 5 | 2,900 | 14,500 | Wiring |
-| 5 | MAX30105 Sensor | 1 | 150,000 | 150,000 | Heart rate & SpO2 sensor |
-| 6 | Jumper Cable 20CM Male | 1 | 9,900 | 9,900 | Connections |
-| 7 | Infrared Barrier Sensor | 2 | 4,500 | 9,000 | Finger detection |
-| 8 | Breadboard MB-102 830 | 1 | 8,900 | 8,900 | Prototyping |
-| 9 | Jumper Cable 10CM Female | 1 | 8,700 | 8,700 | Connections |
-| 10 | Jumper Cable 10CM Male | 1 | 7,900 | 7,900 | Connections |
-| 11 | LED 3MM Super Bright White | 5 | 1,500 | 7,500 | Status indicators |
-| 12 | Pin Header Strip 1x40 | 5 | 900 | 4,500 | Connectors |
-| 13 | Buzzer Active 5V | 3 | 1,500 | 4,500 | Audio alerts |
-| 14 | GCU Easy Touch | 1 | 200,000 | 200,000 | Reference meter |
-| 15 | Test Strips | 3 | - | 300,000 | Calibration strips |
-
-**Total Cost: Rp 849,000** (~$55 USD)
 
 ### Pin Configuration
 
@@ -431,10 +412,10 @@ float interpolasiLinear(int adc, const int adc_arr[],
 ```
 
 ### Breadboard Layout
-![Breadboard](docs/images/breadboard-layout.png)
+![Breadboard](https://github.com/user-attachments/assets/a6959013-7d82-4b2a-a90b-ff521826e9b0)
 
 ### PCB Design
-![PCB](docs/images/pcb-design.png)
+![PCB](https://github.com/user-attachments/assets/7a823baf-9e43-475a-9abe-a714b842f029)
 
 ---
 
@@ -584,9 +565,9 @@ of this software and associated documentation files...
 
 - 📧 Email: dwigolan@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/dwinainggolan](https://www.linkedin.com/in/dwinainggolan)
-- 🐱 GitHub: [@yourusername](https://github.com/yourusername)
+- 🐱 GitHub: [@yourusername](https://github.com/dwinainggolan09)
 
-**Project Link**: [https://github.com/yourusername/glurakol-iot-monitoring](https://github.com/yourusername/glurakol-iot-monitoring)
+**Project Link**: [https://github.com/yourusername/glurakol-iot-monitoring](https://github.com/dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol)
 
 ---
 
@@ -598,27 +579,6 @@ of this software and associated documentation files...
 - **Maxim Integrated** - MAX30105 sensor documentation
 - **GCU Easy Touch** - Reference meter calibration
 
----
-
-## 📊 Project Status
-
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Hardware](https://img.shields.io/badge/hardware-tested-success)
-
-**Current Version**: 1.0.0  
-**Last Updated**: December 2024  
-**Status**: ✅ Production Ready
-
----
-
-## 🗺️ Roadmap
-
-- [ ] **v1.1**: Add SD card data logging
-- [ ] **v1.2**: Implement machine learning for pattern recognition
-- [ ] **v2.0**: Multi-user support with user profiles
-- [ ] **v2.1**: Mobile app with native UI
-- [ ] **v3.0**: Integration with hospital EMR systems
 
 ---
 
@@ -626,23 +586,20 @@ of this software and associated documentation files...
 
 If this project helped you, please consider giving it a ⭐!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/glurakol-iot-monitoring&type=Date)](https://star-history.com/#yourusername/glurakol-iot-monitoring&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol&type=Date)](https://star-history.com/#dwinainggolan09/Non-Invasive-IoT-Based-GLURAKOL-Monitoring-System-Glucose-Uric-Acid-Cholesterol&Date)
+
 
 ---
 
 ## 📸 Gallery
 
-### System Components
-![Components](docs/images/components.jpg)
-
 ### Working Prototype
-![Prototype](docs/images/prototype.jpg)
+![Prototype](https://github.com/user-attachments/assets/f1d80dcf-6dce-4178-9498-204f24e1bf3a)
 
-### Blynk Dashboard
-![Blynk](docs/images/blynk-dashboard.jpg)
 
 ### Test Results
-![Results](docs/images/test-results.jpg)
+![Results](https://github.com/user-attachments/assets/d7cfdb8f-8c32-45e4-a2b9-e56cd3bfcfb0)
+![Results](https://github.com/user-attachments/assets/5b6cd5e7-7123-4a43-8e25-3235e6fe676a)
 
 ---
 
