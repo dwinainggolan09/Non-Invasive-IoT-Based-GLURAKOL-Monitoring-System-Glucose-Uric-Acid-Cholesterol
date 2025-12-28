@@ -18,7 +18,7 @@ Non-invasive IoT-based system for real-time monitoring of glucose, uric acid, an
 ## 📋 Table of Contents
 - [About](#about)
 - [Features](#features)
-- [System Architecture](#system-architecture)
+- [System Architecture](##system-architecture)
 - [Hardware Components](#hardware-components)
 - [Software Requirements](#software-requirements)
 - [Installation](#installation)
